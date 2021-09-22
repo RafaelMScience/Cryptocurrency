@@ -1,4 +1,4 @@
-package com.rafaelm.cryptocurrency.ui.theme
+package com.rafaelm.cryptocurrency.presentation.ui.theme
 
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.darkColors
